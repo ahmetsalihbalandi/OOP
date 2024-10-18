@@ -1,3 +1,3 @@
 # OOP
 ---
-repo ''for'' C++ basics and oop lecture notes
+repo ```for``` C++ basics and oop lecture notes
