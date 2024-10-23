@@ -13,4 +13,4 @@ void hareketEttir(int eksen, int hedef){
     }
 }
 
-//Hocanın istediği kod dusundugumden cok basitmis, hedef "eksen" ekseninde "hedef" hedefine hareket ettiriliyor, şeklinde yazdıracakmışız
+//"hedef 'eksen' ekseninde 'hedef' hedefine hareket ettiriliyor" şeklinde çıktı alınacak şekilde düzeltilmesi gerekiyor
